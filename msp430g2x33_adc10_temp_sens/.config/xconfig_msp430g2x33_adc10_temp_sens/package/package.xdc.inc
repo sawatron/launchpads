@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_msp430g2x33_adc10_temp_sens.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-A71
+package/xconfig_msp430g2x33_adc10_temp_sens.java
+package/xconfig_msp430g2x33_adc10_temp_sens.class
+package/package_xconfig_msp430g2x33_adc10_temp_sens.c
+package/package.defs.h
+package/xconfig_msp430g2x33_adc10_temp_sens.ccs

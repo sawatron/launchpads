@@ -1,0 +1,12 @@
+<projectSpec>
+    <project compilerBuildOptions="--advice:power=&quot;none&quot; -O0" device="MSP430G2553" name="msp430g2xx3_timera_pwm">
+        <property name="products" value="com.ti.sdo.grace;com.ti.mcu.msp430.driverlib" />
+        <property name="configuroOptions" value="--compileOptions &quot;--symdebug:dwarf -g --optimize_with_debug&quot;" />
+        <property name="buildProfile" value="debug" />
+        <property name="type" value="rtsc" />
+        <property name="platform" value="ti.platforms.msp430:MSP430G2553" />
+        <file action="copy" path="msp430g2xx3_timera_pwm.projectspec" />
+        <file action="copy" path="msp430g2xx3_timera_pwm.c" />
+        <file action="copy" path="msp430g2xx3_timera_pwm.cfg" />
+    </project>
+</projectSpec>

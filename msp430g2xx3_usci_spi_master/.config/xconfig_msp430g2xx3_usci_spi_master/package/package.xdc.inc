@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_msp430g2xx3_usci_spi_master.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-A71
+package/xconfig_msp430g2xx3_usci_spi_master.java
+package/xconfig_msp430g2xx3_usci_spi_master.class
+package/package_xconfig_msp430g2xx3_usci_spi_master.c
+package/package.defs.h
+package/xconfig_msp430g2xx3_usci_spi_master.ccs

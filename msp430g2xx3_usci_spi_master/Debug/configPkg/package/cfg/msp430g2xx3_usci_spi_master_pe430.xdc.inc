@@ -1,0 +1,2 @@
+package.xs
+package/cfg/msp430g2xx3_usci_spi_master_pe430.cfg

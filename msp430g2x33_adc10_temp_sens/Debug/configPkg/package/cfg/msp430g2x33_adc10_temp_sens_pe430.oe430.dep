@@ -1,0 +1,9 @@
+package/cfg/msp430g2x33_adc10_temp_sens_pe430.oe430: package/cfg/msp430g2x33_adc10_temp_sens_pe430.c C:/ti/xdctools_3_31_01_33_core/packages/xdc/std.h C:/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/include/stdarg.h C:/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/include/stddef.h C:/ti/grace_3_10_00_82/packages/ti/targets/msp430/elf/std.h C:/ti/grace_3_10_00_82/packages/ti/targets/select.h C:/ti/grace_3_10_00_82/packages/ti/targets/std.h C:/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/include/stdint.h 
+package/cfg/msp430g2x33_adc10_temp_sens_pe430.c:
+C:/ti/xdctools_3_31_01_33_core/packages/xdc/std.h:
+C:/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/include/stdarg.h:
+C:/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/include/stddef.h:
+C:/ti/grace_3_10_00_82/packages/ti/targets/msp430/elf/std.h:
+C:/ti/grace_3_10_00_82/packages/ti/targets/select.h:
+C:/ti/grace_3_10_00_82/packages/ti/targets/std.h:
+C:/ti/ccsv6/tools/compiler/ti-cgt-msp430_4.4.5/include/stdint.h:

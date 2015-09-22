@@ -1,0 +1,2 @@
+package.xs
+package/cfg/msp430g2x33_adc10_temp_sens_pe430.cfg
